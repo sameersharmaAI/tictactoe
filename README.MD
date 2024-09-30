@@ -14,20 +14,16 @@ This is a simple Player vs Player Tic-Tac-Toe game built using Streamlit. The ga
     ```bash
     git clone https://github.com/sameersharmaAI/tictactoe.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd tictactoe-streamlit
-    ```
-3. Install the necessary dependencies:
+2. Install the necessary dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-4. Run the Streamlit app:
+3. Run the Streamlit app:
     ```bash
     streamlit run app.py
     ```
 
-5. Open the browser and go to `http://localhost:8501` to play the game.
+4. Open the browser and go to `http://localhost:8501` to play the game.
 
 ## Requirements
 - Python 3.x
